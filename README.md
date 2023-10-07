@@ -24,6 +24,7 @@ More ideas for hunting queries can be found in my [Blog](https://benjitrapp.gith
 This repository includes the following resources:
 
 1. [Jupyter Notebook](http://localhost:8888/notebooks/hunting-cloudtrail-flaws-cloud.ipynb): A comprehensive Jupyter Notebook with insightful plots and examples of Threat Hunting Queries based on CloudTrail.
+2. [Cloud Trail Logs](https://github.com/BenjiTrapp/aws-threat-hunting/tree/main/cloudtrail/flaws_cloudtrail_logs): These logs were released by Scott Piper anonymized CloudTrail logs from [flaws.cloud](https://flaws.cloud) which contain real malicious events, to practice some Threat Hunting capabilities
 
 ## Threat Hunting Playbook meets Jupyter Notebook
 

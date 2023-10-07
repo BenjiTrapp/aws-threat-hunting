@@ -23,9 +23,9 @@ More ideas for hunting queries can be found in my [Blog](https://benjitrapp.gith
 
 This repository includes the following resources:
 
-1. [Jupyter Notebook]([#jupyter-notebook](http://localhost:8888/notebooks/hunting-cloudtrail-flaws-cloud.ipynb)): A comprehensive Jupyter Notebook with insightful plots and examples of Threat Hunting Queries based on CloudTrail.
+1. [Jupyter Notebook](http://localhost:8888/notebooks/hunting-cloudtrail-flaws-cloud.ipynb): A comprehensive Jupyter Notebook with insightful plots and examples of Threat Hunting Queries based on CloudTrail.
 
-## Jupyter Notebook
+## Threat Hunting Playbook meets Jupyter Notebook
 
 Explore and leverage the power of threat hunting within your AWS environment using our Jupyter Notebook. This notebook provides detailed examples, visualizations, and step-by-step guides to help you get started with CloudTrail-based threat hunting.
 

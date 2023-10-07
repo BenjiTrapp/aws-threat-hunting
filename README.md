@@ -12,6 +12,8 @@ Other AWS offerings that can provide deeper insights into your AWS environment i
 
 All or even a subset of these log sources can be used to build a mature threat hunting and alerting system for your AWS cloud.
 
+More ideas for hunting queries can be found in my [Blog](https://benjitrapp.github.io/defenses/2023-06-30-AWS-cloudtrail-ir/)
+
 **Happy hunting!**
 
 ## Contents
@@ -40,7 +42,7 @@ To get started with the Jupyter Notebook, follow these steps:
 
 ### Note
 
-Make sure you have the necessary permissions and credentials to access your AWS environment and CloudTrail logs before running any queries in the notebook against your real data.
+Make sure you have the necessary permissions and credentials to access your AWS environment and CloudTrail logs before running any queries in the notebook against your real data. The data used within the demo are real malicious provided by Scott Piper 
 
 ## How to Contribute
 

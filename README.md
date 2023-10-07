@@ -1,4 +1,7 @@
-# AWS CloudTrail Threat Hunting 
+<p align="center">
+<img height="200" src="static/aws-threathunting.png">
+<br>AWS CloudTrail Threat Hunting 
+</p>
 
 Welcome to the CloudTrail AWS Threat Hunting Repository! This repository serves as a comprehensive resource for enhancing your threat detection and hunting capabilities within your AWS environment using AWS CloudTrail and other AWS services. Whether you are new to threat hunting or a seasoned pro, this repository offers valuable insights and tools to supercharge your security efforts.
 
